@@ -66,9 +66,9 @@ class Game
       exit
      end
     
-     elsif
+      elsif
         new_round
-     end
+      end
     end
   
 
